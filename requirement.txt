@@ -1,0 +1,11 @@
+rouge
+rouge_score
+transformers==4.27.4
+pytorch_lightning==1.9.5
+# pytorch==1.13.0 This should be installed from the homepage
+fairseq
+spacy
+scipy
+pandas
+tensorboardX
+
