@@ -1,8 +1,6 @@
 # KeEtriCA-storygeneration
 This repository is the code and resources for the paper [A Cross-Attention Augmented Model for Event-Triggered Context-Aware Story Generation](https://arxiv.org/abs/2311.11271) 
 
-To make sure everyone can easily reproduce our work, I will do my best to ensure every essential resource is included in this repository, and the README covers all the information you need to implement our work.
-
 ## Introduction
 This project is implemented with **Pytorch**.
 
